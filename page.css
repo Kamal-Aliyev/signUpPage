@@ -1,0 +1,26 @@
+body {
+  background-color: #A476F9;
+}
+
+.sign {
+  color: #2FF813;
+  padding-right: 50%;
+}
+#img1 {
+  image-resolution: from-image;
+  resize: both 200px;
+}
+.text {
+  color: #2FF813;
+}
+#conclusion {
+  color: #2FF813;
+  text-shadow:
+}
+
+#a1 {
+
+}
+#con{
+  padding-right: 200px;
+}
